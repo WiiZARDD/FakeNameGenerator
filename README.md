@@ -4,8 +4,12 @@ A modern, responsive web application that generates fake names using the [NameFa
 <br>
 Built with HTML5, CSS3, JavaScript (ES6 modules), and Bootstrap 4.
 
+<br>
+<p align="center">
+   ⭐ Star this repository if you found it helpful!
+</p>
 
-⭐ **Star this repository if you found it helpful!**
+![Preview](https://i.imgur.com/X73wlGB.png)
 
 ## Features
 
